@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "neeraj",
+      "email": "neeraj@gmail.com",
+      "password":"neeraj"
+    }
+  ],
+  "income" : [],
+  "expense" : [],
+  "history":[]
+}
